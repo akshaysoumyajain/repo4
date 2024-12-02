@@ -1,0 +1,5 @@
+hi file1
+welcome
+created in master
+modifying file1 in master
+using diff for file1

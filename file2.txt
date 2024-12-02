@@ -1,0 +1,3 @@
+hi file2
+welcome
+created in master
